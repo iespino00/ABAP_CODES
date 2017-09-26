@@ -8,6 +8,9 @@
 
 REPORT  z_metodos_poo.
 
+"Métodos estaticos se utilizan para todos los objetos y se acceden a travez del nombre de la clase
+"y los metodos de instancia y atributos de instancia se acceden a travez de objetos
+
 *----------------------------------------------------------------------*
 *       CLASS tarifas IMPLEMENTATION
 *----------------------------------------------------------------------*
