@@ -102,8 +102,6 @@ endif.
   if ti_mseg is not initial.
      loop at ti_mseg into wa_mseg.
 
-
-
        select * from mkpf
        into table ti_mkpf
        where mblnr = wa_mseg-mblnr
