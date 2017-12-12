@@ -5,7 +5,6 @@
 * Fecha               : 01/11/2017
 * Report  ZMM_SEM_PAGOS_PEDIDOS
 * Numero de version   : 1.0
-* Solicitud: LZC 494
 **
 ************************************************************************
 
